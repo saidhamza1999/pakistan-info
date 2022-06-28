@@ -1,0 +1,22 @@
+body {
+    background-color: #d9d9d9;
+
+    width: 50%;
+
+    margin: 0 auto;
+}
+
+h1 {
+    font-style: font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Yellowtail', cursive;
+}
+
+p {
+    font-size: 20px;
+    font-style: <style>
+    @import url('https://fonts.googleapis.com/css2?family=Smooch&display=swap');
+    </style>;
+
+}
+
